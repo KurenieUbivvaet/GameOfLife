@@ -1,0 +1,10 @@
+D:\OneDrive\Рабочий стол\Smertiorlife\Smertiorlife\bin\Debug\Smertiorlife.exe.config
+D:\OneDrive\Рабочий стол\Smertiorlife\Smertiorlife\bin\Debug\Smertiorlife.exe
+D:\OneDrive\Рабочий стол\Smertiorlife\Smertiorlife\bin\Debug\Smertiorlife.pdb
+D:\OneDrive\Рабочий стол\Smertiorlife\Smertiorlife\obj\Debug\Smertiorlife.csproj.AssemblyReference.cache
+D:\OneDrive\Рабочий стол\Smertiorlife\Smertiorlife\obj\Debug\Smertiorlife.TheGameOfLife.resources
+D:\OneDrive\Рабочий стол\Smertiorlife\Smertiorlife\obj\Debug\Smertiorlife.Properties.Resources.resources
+D:\OneDrive\Рабочий стол\Smertiorlife\Smertiorlife\obj\Debug\Smertiorlife.csproj.GenerateResource.cache
+D:\OneDrive\Рабочий стол\Smertiorlife\Smertiorlife\obj\Debug\Smertiorlife.csproj.CoreCompileInputs.cache
+D:\OneDrive\Рабочий стол\Smertiorlife\Smertiorlife\obj\Debug\Smertiorlife.exe
+D:\OneDrive\Рабочий стол\Smertiorlife\Smertiorlife\obj\Debug\Smertiorlife.pdb
